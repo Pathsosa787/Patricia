@@ -1,0 +1,14 @@
+Sección "lógica de negocios"
+
+En GitHub
+
+    -rubro del sitio: carteras de modo para dama
+    - Nombre del sitio
+            *Nombre de dominio -> https://lesly's.com/
+    -paleta de colores -> https://color.adobe.com/es/create/color-wheel/?base=2&rule=Analogous&selected=4&name=Mi%20tema%20de%20Color&mode=rgb&rgbvalues=1,0.9230454264074269,0.6842534962231905,0.91,0.6734994115179649,0.4981229043474639,1,0.6046632615873534,0.597387806975235,0.8275044742396382,0.459830745050291,0.91,0.6571525125481301,0.6374891608630007,1&swatchOrder=0,1,2,3,4
+    -tipografía -> https://fonts.google.com/specimen/Source+Sans+Pro
+    -Boceto de página de inicio (subir una o máximo 3 fotografías de lo hecho en papel)
+
+
+
+
