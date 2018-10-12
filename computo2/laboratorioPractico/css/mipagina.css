@@ -1,0 +1,13 @@
+.row> div {
+		´padding: 10px;
+		background: #dddd;
+		border: 1px solid #fff;
+}
+.row{
+		´margin:50px auto;
+		
+		
+		.centrado{
+	margin:10px auto;
+	display:block;
+    }
